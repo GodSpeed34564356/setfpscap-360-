@@ -1,1 +1,1 @@
-setfpscap(360)
+setfpscap(1000)
